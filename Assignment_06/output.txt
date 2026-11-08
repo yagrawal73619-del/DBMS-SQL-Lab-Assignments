@@ -1,0 +1,17 @@
+Assignment 6: Sorting Rows and Removing Repeats
+
+Expected result (based on the assignment's sample data):
+Task 1:
+Calculator | 850
+Bag        | 500
+Notebook   | 60
+Pen        | 15
+
+Task 2:
+Electronics
+Office
+Stationery
+
+Task 3:
+Calculator | 850
+Bag        | 500

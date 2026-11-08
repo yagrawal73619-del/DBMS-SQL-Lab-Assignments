@@ -1,0 +1,19 @@
+Assignment 3: Selecting Columns and Rows with WHERE
+
+Expected result (based on the assignment's sample data):
+Task 1:
+name  | marks
+Asha  | 78
+Rohan | 64
+Neha  | 88
+Deepak| 52
+
+Task 2:
+roll_no | name  | marks
+101     | Asha  | 78
+102     | Rohan | 64
+103     | Neha  | 88
+
+Task 3:
+name
+Neha

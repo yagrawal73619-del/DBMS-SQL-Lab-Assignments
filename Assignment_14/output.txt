@@ -1,0 +1,11 @@
+Assignment 14: Creating and Using a View
+
+Expected result (based on the assignment's sample data):
+Task 2:
+name | marks
+Asha | 78
+Neha | 88
+
+Task 3:
+Asha
+Neha

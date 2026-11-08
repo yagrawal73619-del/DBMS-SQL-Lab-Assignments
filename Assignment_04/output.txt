@@ -1,0 +1,16 @@
+Assignment 4: Combining Conditions
+
+Expected result (based on the assignment's sample data):
+Task 1:
+name | runs
+Asha | 45
+
+Task 2:
+name  | runs
+Asha  | 45
+Meera | 72
+
+Task 3:
+name  | team
+Meera | Tigers
+Kiran | Lions

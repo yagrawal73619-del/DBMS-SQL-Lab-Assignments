@@ -1,0 +1,14 @@
+Assignment 12: Using a Subquery
+
+Expected result (based on the assignment's sample data):
+Task 1:
+Neha
+
+Task 2:
+members
+3
+
+Task 3:
+Asha
+Neha
+Rohan

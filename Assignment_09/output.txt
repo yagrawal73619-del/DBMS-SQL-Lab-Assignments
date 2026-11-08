@@ -1,0 +1,23 @@
+Assignment 9: Aliases and CASE
+
+Expected result (based on the assignment's sample data):
+Task 1:
+student_name | score
+Asha         | 92
+Rohan        | 47
+Neha         | 68
+Meera        | 33
+
+Task 2:
+name  | result
+Asha  | Pass
+Rohan | Pass
+Neha  | Pass
+Meera | Fail
+
+Task 3:
+name  | with_bonus
+Asha  | 97
+Rohan | 52
+Neha  | 73
+Meera | 38

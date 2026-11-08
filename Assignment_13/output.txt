@@ -1,0 +1,22 @@
+Assignment 13: UNION and INTERSECT
+
+Expected result (based on the assignment's sample data):
+Task 1 (UNION):
+Asha
+Meera
+Neha
+Pooja
+Rohan
+
+Task 2 (INTERSECT):
+Neha
+
+Task 3 (UNION ALL):
+Asha
+Meera
+Neha
+Neha
+Pooja
+Rohan
+
+Note: INTERSECT is available in PostgreSQL and MySQL 8.0.31 or newer.

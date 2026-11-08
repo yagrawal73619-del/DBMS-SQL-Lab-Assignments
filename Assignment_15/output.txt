@@ -1,0 +1,14 @@
+Assignment 15: Indexes and Adding a Row
+
+Expected result (based on the assignment's sample data):
+Task 2:
+Asha
+Deepak
+
+Task 3:
+customer_id | name   | city
+1           | Kiran  | Kochi
+2           | Deepak | Delhi
+3           | Lata   | Mumbai
+4           | Asha   | Delhi
+5           | Arjun  | Pune

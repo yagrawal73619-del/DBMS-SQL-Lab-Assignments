@@ -1,0 +1,18 @@
+Assignment 10: Joining Two Tables with INNER JOIN
+
+Expected result (based on the assignment's sample data):
+Task 1:
+Anita  | Accounts
+Deepak | Accounts
+Lata   | Sales
+Pooja  | Sales
+
+Task 2:
+Lata
+Pooja
+
+Task 3:
+Anita  | Accounts | 90000
+Deepak | Accounts | 60000
+Lata   | Sales    | 55000
+Pooja  | Sales    | 42000

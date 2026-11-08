@@ -1,0 +1,13 @@
+Assignment 8: Grouping Rows and Using HAVING
+
+Expected result (based on the assignment's sample data):
+Task 1:
+North | 2
+South | 2
+
+Task 2:
+North | 23000
+South | 18000
+
+Task 3:
+North | 23000

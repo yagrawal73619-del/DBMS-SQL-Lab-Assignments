@@ -1,0 +1,19 @@
+Assignment 2: Updating and Deleting Rows
+
+Expected result (based on the assignment's sample data):
+After Task 1:
+item_code | item_name | quantity
+1         | Notebook  | 80
+2         | Pen       | 120
+3         | Bag       | 0
+
+After Task 2:
+item_code | item_name | quantity
+1         | Notebook  | 80
+2         | Pen       | 130
+3         | Bag       | 0
+
+After Task 3:
+item_code | item_name | quantity
+1         | Notebook  | 80
+2         | Pen       | 130

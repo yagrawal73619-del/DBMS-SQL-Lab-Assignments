@@ -1,0 +1,24 @@
+Assignment 11: Other Kinds of Joins
+
+Expected result (based on the assignment's sample data):
+Task 1:
+Eagles | Asha
+Eagles | Meera
+Lions  | NULL
+Tigers | Arjun
+
+Task 2:
+Eagles | Arjun
+Eagles | Asha
+Eagles | Meera
+Lions  | Arjun
+Lions  | Asha
+Lions  | Meera
+Tigers | Arjun
+Tigers | Asha
+Tigers | Meera
+
+Task 3:
+Arjun | Tigers
+Asha  | Eagles
+Meera | Eagles

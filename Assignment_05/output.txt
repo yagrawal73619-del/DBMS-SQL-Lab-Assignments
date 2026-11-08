@@ -1,0 +1,12 @@
+Assignment 5: Pattern Matching with LIKE
+
+Expected result (based on the assignment's sample data):
+Task 1:
+Database Systems
+Data Structures in C
+
+Task 2:
+Data Structures in C
+
+Task 3:
+Short Stories

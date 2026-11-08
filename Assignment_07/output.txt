@@ -1,0 +1,14 @@
+Assignment 7: Using Aggregate Functions
+
+Expected result (based on the assignment's sample data):
+Task 1:
+num_sales
+4
+
+Task 2:
+total
+41000
+
+Task 3:
+highest
+12000
